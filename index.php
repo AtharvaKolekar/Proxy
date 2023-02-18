@@ -1,5 +1,7 @@
 <?php
 
+ini_set('zend.assertions', 1);
+
 // Private web proxy script by Heiswayi Nrird (https://heiswayi.nrird.com)
 // Released under MIT license
 // Free Software should work like this: whatever you take for free, you must give back for free.
